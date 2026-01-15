@@ -1,0 +1,48 @@
+# hi
+
+title: vce notes
+description: >-
+  Here at vce bunker, protection of your atars is our top priority.
+url: "" # https://vce-bunker...
+github_username:  vce-bunker
+
+collections:
+  pages: &all_collections
+    output: true
+    permalink: :collection/:path
+    title: :name
+  chemistry:
+    <<: *all_collections
+  biology:
+    <<: *all_collections
+  accounting:
+    <<: *all_collections
+
+defaults: 
+- scope: 
+     path: ""
+  values:
+     layout: "default"
+
+markdown: CommonMark
+commonmark:
+  extensions:
+    - autolink
+    - strikethrough
+    - table
+    - tagfilter
+    - tasklist
+  options:
+    - FOOTNOTES
+    - GITHUB_PRE_LANG
+    - SMART
+    - STRIKETHROUGH_DOUBLE_TILDE
+    - UNSAFE
+    - HARDBREAKS
+
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock

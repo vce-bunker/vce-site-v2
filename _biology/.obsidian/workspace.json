@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "8207d2f4f24e322e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bd27dc5408061a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fad2e28dcd400fc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "U3.2 DNA Biotech/4. CRISPR-cas9/1. CRISPR-cas9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. CRISPR-cas9"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "10dbd5fcb999a1e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e285aef87ab357b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f80cb2dc16e7d2cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "162439badf646e4b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "a0ea",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8a2a984733098d5f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c14793b957216153",
+    "type": "split",
+    "children": [
+      {
+        "id": "04d487d3915514bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90fc28bb1f69c9f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "U4.2 Genetic variation/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for index"
+            }
+          },
+          {
+            "id": "b75c454ad7d4550f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from index"
+            }
+          },
+          {
+            "id": "a310a92d1c91cbcc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a0df3ba27ff74df2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7f65c2d227f8a7c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fad2e28dcd400fc7",
+  "lastOpenFiles": [
+    "U3.2 DNA Biotech/2. PCR/1. PCR.md",
+    "index.md",
+    "U3.2 DNA Biotech/index.md",
+    "U3.3 Biochemical pathways/index.md",
+    "U4.1 Immunity/index.md",
+    "U4.2 Genetic variation/index.md",
+    "U4.3 Human evolution/index.md",
+    "assets/vcaa-accepted-abbreviations.md",
+    "vcaa-accepted-abbreviations.md",
+    "assets/Biology-SD-Exam-checklist-2025.pdf",
+    "assets/Bio-exam-advice-2025.pdf",
+    "assets/Biology SD Exam checklist 2025.pdf",
+    "assets/Bio exam advice 2025.pdf",
+    "U3.3 Biochemical pathways/6. Cellular respiration/2. Aerobic respiration steps.md",
+    "U3.3 Biochemical pathways/4. Photosynthesis/1. Photosynthesis.md",
+    "U3.3 Biochemical pathways/4. Photosynthesis/2. Factors affecting photosynthesis.md",
+    "U3.2 DNA Biotech/5. Gene cloning/2. Plasmids.md",
+    "U3.2 DNA Biotech/5. Gene cloning/3. Gene cloning process.md",
+    "U3.3 Biochemical pathways/5. Plant adaptations/1. Photorespiration.md",
+    "Exam prep.md",
+    "U3.3 Biochemical pathways/1. Enzymes/1. Enzymes.md",
+    "U3.3 Biochemical pathways/3. Factors affecting enzymes/2. Temperature, pH, concentration.md",
+    "Scientific method/index.md",
+    "U3.3 Biochemical pathways/3. Factors affecting enzymes/3. Inhibitors.md",
+    "U3.3 Biochemical pathways/6. Cellular respiration/3. Anaerobic fermentation.md",
+    "U3.3 Biochemical pathways/2. Coenzymes/1. Cofactors.md",
+    "U3.1 Protein synthesis/6. Protein folding/2. Denaturation.md",
+    "U3.1 Protein synthesis/6. Protein folding/1. Protein folding.md",
+    "Scientific method/1. Measurement/5. Validity.md",
+    "U3.1 Protein synthesis/4. Translation/1. Translation.md",
+    "assets/ab61f7b2d0fa6bc5922f791e59c9d3634c08265067cafbecdbfd88da7e22875d7c7b0eac5c3fc0dac94f5f2e72267e62650564411e04cb67865bfde47b50eb78.png",
+    "assets/a7934a84f8a84d7c910e90511a7097baa8cd4e6ba1e8bd18b13db26ca1edc1c41435c36329b6f29376a036b1aa0b5e322b2d8cce4468579474ec03251657f641.png",
+    "assets/c473f8bd82e2fd67736e526e5cd834306e8f17625175881202a2dc43c0bcc823080de50d5eea208eb09d747f4e30268589f454b341028d9595ef215b0e41eb09.png",
+    "U3.3 Biochemical pathways/7. Biofuels",
+    "Scientific method/0. Methodologies",
+    "assets/ed194b3050c9d3b674bcfb83ae269d0a6d7bb1fccbfcfa0f13b4b9d516c0031f5345e5b68469ba4f4f631bd7a93054d0bfb4b644ac555e956334248c3d0485ef.png",
+    "U4.3 Human evolution/7. Hominin timeline",
+    "assets/b178a15c0de0bcb022ff2544824de0b2abf9e403ffcdc45a991fd428fa6ca9f871fa8b7fe9707334e0aa89c014872256303ef2c66bbe78c21f0346119bf68e90.png",
+    "U4.3 Human evolution/8. Human migration",
+    "U4.3 Human evolution/9. Aboriginals",
+    "U4.3 Human evolution/6. Human classification",
+    "assets/0fb484e7c8e76be2264b7d6cf2225c3934fbf09498f30e1858e8042022af75353e34270de08f68bec36790d50a9075915a6a3bbf9a01d7b84ae8231c33d94919.png",
+    "assets/e2e89844b08e5576eacd8f67fff29a1185e936d09c28dcac269fe132bb2a022290f5025f8fe415dbc51f0feb0c4922b0c1886a0109aa72fe11c6052cfb08b795.png",
+    "assets/7cdc23f375472fdd66f16c74e2cc54be362537782d850caf34eb7d565693b274933c061aea135242c77c6ff9ebbef308cf101507eea8791788e60eaabb604eb9.png",
+    "assets/4f68eaad521845fe3fe74459ed7a7f1873e23483dd6a309a212deb851d472612db4adf8d0fe875bb302720f60656965caf8b79ea34a31e43a78ceb6e9342cf92.png",
+    "assets/c94543fb680165b7a7be4e225aaddaa8e27cd166cb562d48e5692d0ecc1f180dd7a6dd19b99e81e4a36394bb8e21df3b57089ae9bc1c322e830620b37a90df8c.png"
+  ]
+}

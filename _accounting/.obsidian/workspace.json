@@ -1,0 +1,234 @@
+{
+  "main": {
+    "id": "db6154ad9d156416",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b9d29fd12c4f901",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b7a7d97032658e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ccbb3f7e795fbef5",
+    "type": "split",
+    "children": [
+      {
+        "id": "efd08c52c563a7db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67e3bc94b8aed864",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "01ea291eb55a42b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "backlin",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fa765d63064c3b07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3ae80b628f734e58",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ab85a896f0860f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f0c6e671e45e68c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "959a859024bd4ee3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bbce08a02b202bc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "47aa41acba54a33c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "20f297471d59848b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "1b7a7d97032658e1",
+  "lastOpenFiles": [
+    "Unit 3 4 notes/4. T2U3 Sac 2/6. Cash flow statement.md",
+    "Unit 1 2 notes/3. Y10T2/5. Income statement.md",
+    "Unit 3 4 notes/4. T2U3 Sac 2/1. Ch10 theory- Determining profit or loss.md",
+    "Glossary/2. Docs, records, reports/1. List of documents.md",
+    "Glossary/2. Docs, records, reports/7. Inventory card.md",
+    "Unit 3 4 notes/2. T1U3 Sac 1B/1. Sac 1B checklist.md",
+    "Unit 3 4 notes/index.md",
+    "Unit 1 2 notes/index.md",
+    "Unit 1 2 notes/2. Y10T1/6. Cash vs profit.md",
+    "Glossary/0. Theory bank/4. Cash vs profit.md",
+    "Unit 1 2 notes/3. Y10T2/3. Inventory cards.md",
+    "Unit 3 4 notes/4. T2U3 Sac 2/4. Ch11 theory- Cash and profit.md",
+    "Unit 3 4 notes/4. T2U3 Sac 2/3. Income statement.md",
+    "Unit 1 2 notes/4. Y10T3/2. Checklist + things to remember.md",
+    "Glossary/0. Theory bank/2. Accounting elements.md",
+    "Glossary/0. Theory bank/1. Theory question bank.md",
+    "Glossary/0. Theory bank/6. Choosing a depreciation method.md",
+    "Glossary/0. Theory bank/7. Purpose of the accounts _ schedule.md",
+    "Glossary/0. Theory bank/9. Ethical considerations regarding NCA.md",
+    "Glossary/0. Theory bank/10. Cost of the NCA.md",
+    "Glossary/0. Theory bank/16. Internal control mechanisms.md",
+    "Glossary/0. Theory bank/15. Accounting assumptions.md",
+    "Glossary/0. Theory bank/14. Qualitative characteristics.md",
+    "Glossary/0. Theory bank/13. Depreciation terms.md",
+    "Glossary/0. Theory bank/12. Non Financial indicators.md",
+    "Glossary/0. Theory bank/11. Statement of Account.md",
+    "assets/bank.png",
+    "Glossary/0. Theory bank",
+    "assets/transactions.png",
+    "assets/formulas.jpg",
+    "unused assets/image 3.png",
+    "assets/narrations.png",
+    "Glossary/2. Docs, records, reports",
+    "Glossary/3. Transactions",
+    "Glossary/5. Common mistakes",
+    "assets/image 4.png",
+    "Glossary/4. Narrations",
+    "Glossary/1. Formulas",
+    "Glossary",
+    "unused assets/Untitled 4.png",
+    "Unit 1 2 notes/5. Exam checklist U12",
+    "assets/a07ace5a4ed2f7ecf9b2f767365aa9084f28adb8990e58c70e36fa43007683009eb599e04b5507153d4dcc0af4bf825af5483c1f37c0aa2bc7c408d13fafd8c2.png",
+    "assets/09e85c4f8dc9cd8f34013ea742a20295eda12a7f10c3a38ecec075105801a4be29c8cd315e501dcd25a5f089f1d4a0beed9850efba08c736f312b894ceecdc06.png",
+    "assets/3673c18021b0aa18ef5249d4cc9be67ce0066358e5a86b6b0292be2cc0065cb164124b360d81ea197aef6f40f802a83c3ae964c1afb9551f3ac653ecf1d06998.png",
+    "Unit 3 4 notes/7. T3U4 Sac 2A",
+    "Unit 3 4 notes/6. T3U4 Sac 1B"
+  ]
+}

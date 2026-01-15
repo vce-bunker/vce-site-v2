@@ -1,0 +1,79 @@
+---
+---
+// not an error (ignore alert)
+$textcolor: #e1e1e1;
+$texthighlight: #989898;
+$colourhighlight: #aa86c1;
+$activehighlight: #3f3f3f;
+$barrier: #585858;
+
+body, input {
+    color: $textcolor
+}
+
+a {
+color: $textcolor;
+}
+
+#content {
+
+    &>* {
+    word-break: break-word;
+    white-space: normal
+    }
+
+    table, th, td {
+    border: 0.5px solid $barrier;
+    border-collapse: collapse;
+    vertical-align: top;
+    }
+
+    hr {
+        color: $barrier;
+    }
+
+    th, td {
+        padding: 5px;
+        word-break: normal;
+    }
+
+    li::marker {
+        color: $textcolor
+    }
+
+    a {
+    color: $colourhighlight;
+    }
+
+    mark {
+        background: rgb(113, 103, 63);
+        color: $textcolor
+    }
+
+    strong, b {
+        color: rgb(203, 70, 40)
+    }
+
+    em, i, em a {
+        color:rgb(103, 161, 185);
+    }
+
+    img:not([width]) {
+        width: 80%;
+        @media(min-width: 35em) {
+        width: 60%
+        }
+    }
+
+}
+
+#search-box {
+    background-color: $activehighlight;
+    margin: 2px 7px;
+    width: 90%;
+    accent-color: $colourhighlight;
+    border-style: none;
+    @media(min-width: 35em) {
+        width: 80%
+    }
+}

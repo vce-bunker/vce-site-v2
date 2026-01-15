@@ -1,0 +1,55 @@
+
+<div style="
+    font-size: 1.3rem;
+    color: #aa86c1;
+    ">
+
+{% assign file3 = page.path | split: "/" | slice: 3 | join: "" %}
+{% if file3 != "" %}
+<!-- get the parent folder dir -->
+
+    {% assign parent = page.url | split: "/" | pop | join: "/" %}
+    {% assign collection = "" | split: "" %}
+
+
+<!-- get list of files in page's folder -->
+{% for i in site[page.collection] %}
+    {% assign current_url = i.url | split: "/" | pop | join: "/" %}
+    {% if current_url == parent %}
+        {% unless i.invis == "true" %}
+        {% assign collection = collection | push: i.url %}
+        {% endunless %}
+    {% endif %}    
+{% endfor %}
+
+{% if collection.size > 1 %}
+<!-- get pos of current page in folder -->
+{% for i in collection %}
+    {% if page.url == i %}
+            {% assign pageIndex = forloop.index %}
+    {% endif %}
+{% endfor %}
+
+<!--Left arrow-->
+{% assign previous = pageIndex | minus: 2 %}
+{% if page.url != collection[0] %}
+    <a id="leftarrow" href="{{collection[previous]}}">« previous</a>
+{% endif %}
+
+<!--Display numbers-->
+{% for i in collection %}
+    {% if pageIndex == forloop.index %}
+        [{{forloop.index}}]
+    {% else %}
+        <a href="{{i}}">{{forloop.index}}</a>
+    {% endif %}
+{% endfor %}
+
+<!--Right arrow-->
+{% if page.url != collection.last %}
+<a id="rightarrow" href="{{collection[pageIndex]}}">next »</a>
+{% endif %}
+
+{% endif %}
+{% endif %}
+</div>

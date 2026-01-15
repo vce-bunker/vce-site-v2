@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>{% if page.url != "/" %}{{ page.path | split: "/" | last | split: "." | pop| slice: 1 |default: page.title }} | {% endif %} Vce notes</title>
+    <link rel="icon" type="image/x-icon" href="/assets/icon.svg">
+	<meta name="robots" content="noindex">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<script data-goatcounter="https://nacl.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+	<link rel="stylesheet" href="https://unpkg.com/normalize.css@8.0.1/normalize.css">
+	<link rel="stylesheet" href="{{'/assets/layout.css' | relative_url}}" type="text/css" media="all">
+	<link rel="stylesheet" href="{{'/assets/text.css' | relative_url}}" type="text/css" media="all">
+
+	<!-- Pastwed from the docs -->
+	<!-- https://docs.mathjax.org/en/latest/web/configuration.html -->
+	<script> 
+  	MathJax = {
+    tex: {
+      inlineMath: {'[+]': [['$', '$']]}
+    },
+    svg: {
+      fontCache: 'global'
+    }
+	};
+	</script>
+	<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js"></script>	
+	
+</head>
+<body>
+<div id="body">
+
+<!-- The layout -->
+<div id="top">
+<img id="banner" src="/assets/bannercat.png" alt="banner">
+</div>
+<div id="placeholder"></div> <!-- oh no here comes the lazy code -->
+<div id="grid">
+<div id="menu">
+	<a href="/"><h1><i>Vce Notes</i></h1></a>
+	<div id="navbar">
+	<a href="/accounting/" class="{% if page.collection == 'accounting' %}active{% endif %}">Accounting</a>
+	<a href="/biology/" class="{% if page.collection == 'biology' %}active{% endif %}">Biology</a>
+	<a href="/chemistry/" class="{% if page.collection == 'chemistry' %}active{% endif %}">Chemistry</a>
+	<div class="dropdown">
+		<a>Other</a>
+		<div class="dropdownbody">
+			<a href="/temporary">Methods</a>
+			<a href="/temporary">English</a>
+			<a href="/temporary">Year 10</a>
+			<a href="/pages/">Debug</a>
+			<a href="/temporary">Misc</a>
+		</div>
+	</div>
+	</div>
+</div>
+<div id="sidebar">
+	{% assign path = page.path | split: "/" %}
+	{% unless page.url == "/resource-list" %}
+	<div id="search">
+
+  			<form action="/search/" method="get">
+ 			    <input type="text" id="search-box" name="query" placeholder="search">
+ 			</form>
+
+	</div>
+	{% endunless %}
+	{% if path[0] == "index.markdown" %}
+	<div id="countdown">
+		{% include countdown.html %}
+	</div>
+	<div id="links">
+		<a href="/resource-list">> Useful links</a>
+	</div>
+	{% elsif path.size > 1 %}
+	<div id="sections">
+		<b>Sections</b>
+		{% include topbar.html %}
+	</div>
+	{% endif %}
+	{% if path.size > 2 or page.url == "/resource-list" %}
+	<div id="pages">
+		{% if page.url == "/resource-list" %}
+			<b>Subject-specific sites</b>
+			<div id="pagelinks">
+			<a href="#scrollmarker">subjects</a>
+			</div>
+		{% else %}
+			<b>Pages</b>
+			<div id="pagelinks">
+			{% include subbar.html %}
+			</div>
+		{% endif %}
+	</div>
+	{% endif %}
+</div>
+<div id="content">
+	<h2>{{page.name | split: "." | pop | shift}}</h2>
+	{{content | default: "sorry! I either haven't written anything on this page or there's a glitch in the code." }}
+    {% include paginate.html %}
+</div>
+<div id="footer"><p>footer was here 🐸 <i>2025</i></p></div>
+
+</div>
+
+</div>
+</body>
+</html>

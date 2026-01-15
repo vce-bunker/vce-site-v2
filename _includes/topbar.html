@@ -1,0 +1,26 @@
+ <!-- links to:
+ - subject dir
+ - subject/study-notes
+ - any folders/index
+
+Possibilities:   (after remove trailing / in index.md's)
+/pages/unit-1
+/pages/study-notes.html
+/pages
+ -->
+
+{% if page.url != "/" %}
+{% assign parent = "/" | append: page.collection %}
+<a href={{parent}} class="{% if page.url == parent %}active{% endif %}">Subject Home</a>    
+
+<!-- get list of files in page's folder -->
+<!-- also add class="active" to the current url -->
+{% for i in site[page.collection] %}
+    {% assign current_url = i.url | split: "/" | pop | join: "/" %}
+    
+    {% if current_url == parent %}
+        <a href={{i.url}} class="{% if page.url contains i.url %}active{% endif %}">{{i.title}}</a>
+    {% endif %}    
+{% endfor %}
+
+{% endif %}

@@ -1,0 +1,37 @@
+<div id="display">
+<p>
+<strong id="timer"></strong> <br>
+until exams</p>
+</div>
+
+<style>
+    #display {
+    padding: 0 10px;
+    #timer {
+        font-size: 2.5rem;
+    }
+    }
+</style>
+
+
+<script>
+
+let currentTime = new Date().getTime()
+const examTime = new Date("Oct 26, 2026 00:00:00").getTime()
+let timeLeft
+let interval = setInterval(calculate, 1000)
+
+function calculate() {
+    currentTime = new Date().getTime();
+    timeLeft = examTime - currentTime;
+    document.getElementById("timer").innerHTML = `
+    ${Math.floor(timeLeft / (1000*60*60*24))}d
+    ${Math.floor(timeLeft / (1000*60*60)) % 24 }h
+    ${Math.floor(timeLeft / (1000*60)) % 60 }m
+    ${Math.floor(timeLeft / (1000)) % 60 }s `;
+}
+
+</script>
+
+
+

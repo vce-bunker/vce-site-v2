@@ -1,0 +1,27 @@
+
+<!-- check if the file is degree 3 or more
+ (can do because site has to be structured like this anyway) -->
+{% assign file3 = page.path | split: "/" | slice: 2 | join: "" %}
+
+{% if file3 != "" %}
+ {% assign subfolders-reached = "" | split: "" %}
+ <!-- set the current folder to operate in (eg _pages/unit-2) -->
+ {% assign sidebar-categ = page.path | split: "/" | slice: 0, 2 | join: "/" %}
+
+ {% for i in site[page.collection] %}
+  {% assign currentfile3 = i.path | split: "/" | slice: 2, 2 %} 
+  <!-- show link if it is under the same folder (eg semester 1) (and not the index) -->
+  {% if currentfile3.size > 1 and i.path contains sidebar-categ %} 
+    <!-- show link if it is a folder that hasn't been displayed yet (so only 1st file of each folder) -->
+    {% unless subfolders-reached contains currentfile3[0] %}
+      <a href={{i.url}} class="{% if file3 == currentfile3[0] %}active{% endif %}">{{currentfile3[0] | split: " " | shift | join: " "}}</a>
+    {% assign subfolders-reached = subfolders-reached | push: currentfile3[0] %}
+    {% endunless %}
+  {% endif %}
+ {% endfor %}
+
+  {% if subfolders-reached.size == 0 %}
+    <i>none</i>
+  {% endif %}
+
+{% endif %}

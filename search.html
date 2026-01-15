@@ -1,0 +1,26 @@
+---
+title: search results
+---
+<!-- List where search results will be rendered -->
+<ul id="search-results"></ul>
+
+<script>
+  // generate the JSON to search
+  window.store = {
+    {% assign allpages = site.chemistry | concat: site.biology | concat: site.accounting | concat: site.pages %}
+    {% for i in allpages %}
+      "{{ i.url | slugify }}": {
+        "title": "{{ i.title | split: "." | shift | join: "" | default: i.title | downcase |xml_escape }}",
+        "content": {{ i.content | strip_html | strip_newlines | jsonify }},
+        "url": "{{ i.url | xml_escape }}",
+        "collection": "{{ i.collection }}"
+      }
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  };
+</script>
+
+<!-- Import lunr.js from unpkg.com -->
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+<!-- Search -->
+<script src="/assets/search.js"></script>

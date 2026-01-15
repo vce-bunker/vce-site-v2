@@ -1,0 +1,9 @@
+{
+  "strictLineBreaks": true,
+  "attachmentFolderPath": "assets",
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative",
+  "autoConvertHtml": false
+}
