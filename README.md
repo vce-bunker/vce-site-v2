@@ -1,4 +1,4 @@
-# vceshed
+# vce notes
 notes for vce (3,4 study designs in 2026) (2025 for accounting and biology)
 
 Initially made in 2024 (excluding the stylesheet). I was dumb back then and didn't use an SSG because I didn't think the site would get that big.

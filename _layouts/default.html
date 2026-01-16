@@ -34,17 +34,20 @@
 <div id="top">
 <img id="banner" src="/assets/bannercat.png" alt="banner">
 </div>
-<div id="placeholder"></div> <!-- oh no here comes the lazy code -->
+<div id="placeholder"></div>
 <div id="grid">
 <div id="menu">
 	<a href="/"><h1><i>Vce Notes</i></h1></a>
 	<div id="navbar">
-	<a href="/accounting/" class="{% if page.collection == 'accounting' %}active{% endif %}">Accounting</a>
-	<a href="/biology/" class="{% if page.collection == 'biology' %}active{% endif %}">Biology</a>
-	<a href="/chemistry/" class="{% if page.collection == 'chemistry' %}active{% endif %}">Chemistry</a>
+	<a href="/accounting/" class="{% if page.collection == 'accounting' %}active{% endif %} pc">Accounting</a>
+	<a href="/biology/" class="{% if page.collection == 'biology' %}active{% endif %} pc">Biology</a>
+	<a href="/chemistry/" class="{% if page.collection == 'chemistry' %}active{% endif %} tablet">Chemistry</a>
 	<div class="dropdown">
-		<a>Other</a>
+		<a><span class="pc">Other</span><span class="mobile">Subjects</span></a>
 		<div class="dropdownbody">
+			<a href="/accounting/" class="mobile">Accounting</a>
+			<a href="/biology/" class="mobile">Biology</a>
+			<a href="/chemistry/" class="tablet">Chemistry</a>
 			<a href="/temporary">Methods</a>
 			<a href="/temporary">English</a>
 			<a href="/temporary">Year 10</a>
@@ -99,7 +102,7 @@
 	{{content | default: "sorry! I either haven't written anything on this page or there's a glitch in the code." }}
     {% include paginate.html %}
 </div>
-<div id="footer"><p>footer was here 🐸 <i>2025</i></p></div>
+<div id="footer"><p>footer was here ㅤ <i>2025</i></p></div>
 
 </div>
 

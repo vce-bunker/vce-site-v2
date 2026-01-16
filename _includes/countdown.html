@@ -16,10 +16,11 @@ until exams</p>
 
 <script>
 
-let currentTime = new Date().getTime()
-const examTime = new Date("Oct 26, 2026 00:00:00").getTime()
-let timeLeft
-let interval = setInterval(calculate, 1000)
+let currentTime = new Date().getTime();
+const examTime = new Date("Oct 26, 2026 00:00:00").getTime();
+let timeLeft;
+calculate();
+let interval = setInterval(calculate, 1000);
 
 function calculate() {
     currentTime = new Date().getTime();
