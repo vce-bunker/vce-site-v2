@@ -51,5 +51,11 @@
 {% endif %}
 
 {% endif %}
+
+{% else %}
+{% assign file3 = page.path | split: "/" | slice: 2 | join: "" %}
+{% if file3 == "index.md" %}
+<i><small>to access subpages select from the 'pages' list</small></i>
+{% endif %}
 {% endif %}
 </div>

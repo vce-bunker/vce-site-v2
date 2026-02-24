@@ -15,6 +15,8 @@ note I do not own any of the below.
 ☆[studyclix.com.au](https://www.studyclix.com.au/)
 ☆[vceweb](https://vceweb.com/collections/frontpage)
 ☆[atarnotes](https://atarnotes.com/search?full%5BsortBy%5D=full)
+☆[dynamicscience](https://www.dynamicscience.com.au/tester/)
+☆[anki flashcards](https://www.reddit.com/r/vce/comments/1husqo0/free_game_changing_flashcards_from_a_9885_and/?rdt=40720)
 ☆[chloe is cool](https://drive.google.com/drive/folders/1oemiA-UnVHpV66OKt0Gw7LdBD3n5U-6r)
 ☆[freevcenotes](https://freevcenotes.com/)
 [qvce](https://qvce.notion.site/VCE-6be978d17921473aa17d69dba7d20dcb)
@@ -25,6 +27,7 @@ note I do not own any of the below.
 [ms G's vce site](https://sites.google.com/view/msgsvce/load-specialist-files)
 [HZ tutoring](https://freeforvce.com/vce-subjects/)
 [vcexpert](https://vcexpert.com.au/resources/online-subject-notes-for-vce-students/)
+[vcevanguard](https://vcevanguardcoaching.com.au/free-resources/)
 
 ## Tools/apps
 ### Flashcards
@@ -42,8 +45,11 @@ note I do not own any of the below.
 [memorizer.me](https://memorizer.me/)
 
 ### Miscellaneous
+[free cas file transfer](https://lights0123.com/n-link/)
 [notebookLLM](https://notebooklm.google/)
 [mybib](https://www.mybib.com/)
+[symbolab](https://www.symbolab.com/)
+[nspire emus](https://github.com/nspire-emus/firebird)
 
 ## Youtube
 [Darren Tan](https://www.youtube.com/@DarrenTan21)
@@ -57,7 +63,7 @@ note I do not own any of the below.
 on top of each of this page have a "view main links page"
 Like when there is enough resources for each subject each can have its own subpage -->
 
-<div id="scrollmarker"></div>
+<div id="subjects"></div>
 
 Bio
 🐐[Bioninja](https://vce.bioninja.com.au/)
@@ -70,19 +76,29 @@ Accounting
 ☆[mjall3](https://scratch.mit.edu/studios/30580320/)
 [vcta](https://www.vcta.asn.au/Web/Web/Subject-Resources/VCE-Accounting.aspx?hkey=fec4785d-dd86-43ab-bbc6-c61d63bc24cc)
 
-Methods
+Methods/general
 🐐[qncubed3 exam database](https://qncubed3.notion.site/86f50c9e7c3f4150a6eb07aa92c9cd16?v=ac39a8d952f942adb6c0a0e4919b8362)
 🐐[scriptedmath](http://scriptedmath.com/)
+🐐[LMKmaths](https://www.youtube.com/user/LMKMaths)
+☆[itute](https://www.itute.com/)
 ☆[10minutequiz past paper stats](https://10minutequiz.com/)
+[MaffsGuru](https://www.maffsguru.com/)
+[Pruthvi's general handout](https://www.studocu.com/en-au/document/melbourne-high-school/general-maths/sac-1-notes/118525385)
 
 english
 ☆[litcharts](https://www.litcharts.com/)
+☆[Lisa's study guides youtube](https://www.youtube.com/@vcestudyguidesonline/videos)
 [english resources](https://drive.google.com/drive/folders/1IDjatXray_HikT_1Iv9oG9sJT7IEK7Z6)
+[enhanceacademic](https://www.enhanceacademic.com.au/resources/)
 [eduforge](https://eduforge.work/)
+[gradesaver](https://www.gradesaver.com/)
 [lindsey english](https://www.lindseyenglishtutoring.com/vce-english-resources)
-[Lisa's study guides youtube](https://www.youtube.com/@vcestudyguidesonline/videos)
+
+Chem
+☆[osheachem](https://osheachem.weebly.com/)
 
 Other
 [Algorithmics 25](https://melatonin.is-a.dev/algo25/)
 [mcloughlan (algo)](https://algo.mcloughlan.com/)
 [business management mjall3](https://scratch.mit.edu/studios/30580326/)
+[HHD newsletter](https://thehrh.net.au/student-newsletter)

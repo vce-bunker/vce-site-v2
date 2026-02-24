@@ -15,7 +15,7 @@ Wishing you all the best for your studies!
 
 ### FAQ
 **Why is the banner a cat?**
-Because cats are cool.
+Because cats are cool. (it's temporary)
 
 **Why did you make this site?**
 Yes.

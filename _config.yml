@@ -17,6 +17,8 @@ collections:
     <<: *all_collections
   accounting:
     <<: *all_collections
+  english:
+    <<: *all_collections  
 
 defaults: 
 - scope: 

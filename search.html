@@ -7,7 +7,7 @@ title: search results
 <script>
   // generate the JSON to search
   window.store = {
-    {% assign allpages = site.chemistry | concat: site.biology | concat: site.accounting | concat: site.pages %}
+    {% assign allpages = site.chemistry | concat: site.biology | concat: site.accounting | concat: site.english | concat: site.pages %}
     {% for i in allpages %}
       "{{ i.url | slugify }}": {
         "title": "{{ i.title | split: "." | shift | join: "" | default: i.title | downcase |xml_escape }}",

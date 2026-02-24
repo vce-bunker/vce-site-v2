@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"5d16b65a3e610552","type":"file","file":"unit-3-4/1. Aos1- Energy/6. It's in the game.md","x":2988,"y":1593,"width":400,"height":987},
+		{"id":"533178d467a5aaf4","type":"file","file":"semester-2/4. Redox/4. Galvanic cells.md","x":-185,"y":91,"width":665,"height":2289},
+		{"id":"d086666ddb01c700","type":"file","file":"semester-2/4. Redox/2. Oxidation number.md","x":-52,"y":-760,"width":532,"height":780},
+		{"id":"f49d73a019f4c632","type":"file","file":"unit-3-4/1. Aos1- Energy/Not categorised yet.md","x":1926,"y":2862,"width":814,"height":2058},
+		{"id":"6e5be64538d28d78","type":"file","file":"unit-3-4/1. Aos1- Energy/5. Green Chemistry.md","x":700,"y":2940,"width":908,"height":820},
+		{"id":"68f02d2c16bc89ad","type":"file","file":"unit-3-4/1. Aos1- Energy/3. Fuels.md","x":1760,"y":91,"width":440,"height":2549},
+		{"id":"d11918dd91bc9868","type":"file","file":"unit-3-4/1. Aos1- Energy/1. Faraday's laws.md","x":-200,"y":2940,"width":640,"height":1060},
+		{"id":"5b1917c18dc16a61","type":"file","file":"semester-1/4. Water + Covalent substances/3. Properties of water.md","x":4120,"y":1133,"width":400,"height":2598},
+		{"id":"35dd18dd974c2023","type":"text","text":"","x":4070,"y":2520,"width":50,"height":342,"color":"1"},
+		{"id":"53088be90d81b424","type":"file","file":"unit-3-4/1. Aos1- Energy/7. Energy content of food.md","x":4640,"y":1660,"width":400,"height":420},
+		{"id":"46dc180e5d0b0e73","type":"text","text":"**Stuff to memorize**\n- design features of galvanic cell\n\t- salt bridge\n\t- reactants are kept separate enabling e- flow in external circuit\n- fuel cell\n\t- electrodes\n\t- electrolyte\n- fuel sources and composition\n- un /sustainability theory handout\n\n\n\"write down the eqn that takes place at the anode\"\n- if they give the full equation and there arerandom extra molecules (eg h2O and an \\_OH (where \\_ is the thing you are reacting) ), then include that thing. (instead of h2o put OH-)","x":2780,"y":2862,"width":460,"height":618},
+		{"id":"753febc9e7c149a7","type":"text","text":"2 safety considerations for the storage of hydrogen\n- h2(g) is highly flammable, take care to avoid ignition\n- safe storage with H2 containers that can withstand high pressure\n\nGreen chem principles\n1. state the name\n2. explain (linking to key phrases in the def)\n\nwhat is the purpose of the KOH?\n- source of oh- ions\n- as oh- is used in the reaction equations\n\nwhen saying \"therefore the fuel\", if you know what it is say eg \"therefore the biogas\" instead (or will lose a mark)\n\nwhen labelling eg cathode, you not only need to do +, you also need to write the word \"cathode\"\nIf it just says label the anode and cathode, don't write the charges (safer)\n\nmake sure you specify the ion (not just the element) as the oxidant etc\n\ndo kg/gram instead of kg/mol if there is a mixture\n\n==thermochemical equation requires ∆H== (and it is negative)\n\n**Internal resistance in the wires** as an alternative to the SLC statement\n\nin every possible situation, state the fuel instead of saying \"fuel\"\n\nin **thermochemical** equations the water is liquid\n\nA hydrogen-oxygen fuel cell uses 1\\*10^-5 mol of hydrogen gas per second of operation. Current: 0.965.\nwhy?\n$$1*10^{-5}*2=\\frac{?}{96500}$$\nwhy is it \\*2?\nbecause the half eqn for hydrogen -> H2(g) -> 2H+ 2e-\nevery mol of h2 gas produces 2 electrons\n\nin a fuel cell if there is a random other thing in the half equation, it is the electrolyte. and should be in the other half equation to cancel it out.\n\nif you use catalysis you must go however electrodes are expensive/finite\n\nalways add + or - for delta H. Unless it specifies eg heat energy *release*\n\n**reasons why ethanol can mix with both water and petrol**\nPolar hydroxyl FG forms h-bomds with H2O, therefore soluble\nNonpolar hydrocarbon section of ethanol forms dispersion forces with petrol (also nonpolar), therefore soluble\n\ncheck temperature for states","x":3240,"y":2862,"width":420,"height":1778},
+		{"id":"e69d3a48f36d9ae1","type":"file","file":"unit-3-4/1. Aos1- Energy/2. 5 Commercial cells.md","x":580,"y":-20,"width":825,"height":2836},
+		{"id":"9afe350afd79ffc2","type":"file","file":"unit-3-4/1. Aos1- Energy/4. Fossil fuels.md","x":2380,"y":1366,"width":400,"height":660},
+		{"id":"33c559cc87f06143","type":"text","text":"is glucose a solid?\n\nalways put aqueous for glucose","x":2885,"y":3520,"width":250,"height":520,"color":"1"}
+	],
+	"edges":[
+		{"id":"6d9a117fae72863b","fromNode":"d086666ddb01c700","fromSide":"bottom","toNode":"533178d467a5aaf4","toSide":"top"},
+		{"id":"f08146d0be6e6c18","fromNode":"e69d3a48f36d9ae1","fromSide":"bottom","toNode":"6e5be64538d28d78","toSide":"top"},
+		{"id":"1ee9d1f3aba41cb9","fromNode":"68f02d2c16bc89ad","fromSide":"right","toNode":"9afe350afd79ffc2","toSide":"left"},
+		{"id":"c35f0451698807d4","fromNode":"5d16b65a3e610552","fromSide":"right","toNode":"35dd18dd974c2023","toSide":"left"},
+		{"id":"69828add1a9e0e07","fromNode":"68f02d2c16bc89ad","fromSide":"bottom","toNode":"6e5be64538d28d78","toSide":"right"}
+	]
+}

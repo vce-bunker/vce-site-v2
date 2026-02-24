@@ -15,4 +15,6 @@ Search function uses [lunr.js](https://lunrjs.com/) with a combined version of C
 
 Banner is from [here](https://www.kingpet.com/vote/william3979).
 
+foo.ng subdomain from [Pokymon](https://github.com/Pokymon).
+
 Specific image references are in the website.

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "U3.2 DNA Biotech/4. CRISPR-cas9/1. CRISPR-cas9.md",
+                "file": "Scientific method/1. Measurement/5. Validity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. CRISPR-cas9"
+              "title": "5. Validity"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "fad2e28dcd400fc7",
   "lastOpenFiles": [
+    "Scientific method/1. Errors/5. Uncertainty.md",
+    "Scientific method/1. Data/2. Sampling techniques.md",
+    "U3.2 DNA Biotech/4. CRISPR-cas9/1. CRISPR-cas9.md",
     "U3.2 DNA Biotech/2. PCR/1. PCR.md",
     "index.md",
     "U3.2 DNA Biotech/index.md",
@@ -212,9 +215,6 @@
     "U3.3 Biochemical pathways/6. Cellular respiration/3. Anaerobic fermentation.md",
     "U3.3 Biochemical pathways/2. Coenzymes/1. Cofactors.md",
     "U3.1 Protein synthesis/6. Protein folding/2. Denaturation.md",
-    "U3.1 Protein synthesis/6. Protein folding/1. Protein folding.md",
-    "Scientific method/1. Measurement/5. Validity.md",
-    "U3.1 Protein synthesis/4. Translation/1. Translation.md",
     "assets/ab61f7b2d0fa6bc5922f791e59c9d3634c08265067cafbecdbfd88da7e22875d7c7b0eac5c3fc0dac94f5f2e72267e62650564411e04cb67865bfde47b50eb78.png",
     "assets/a7934a84f8a84d7c910e90511a7097baa8cd4e6ba1e8bd18b13db26ca1edc1c41435c36329b6f29376a036b1aa0b5e322b2d8cce4468579474ec03251657f641.png",
     "assets/c473f8bd82e2fd67736e526e5cd834306e8f17625175881202a2dc43c0bcc823080de50d5eea208eb09d747f4e30268589f454b341028d9595ef215b0e41eb09.png",

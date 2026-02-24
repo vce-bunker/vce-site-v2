@@ -2,6 +2,7 @@
 ---
 ## Specifics (Notes while doing practice exams)
 - critical elements- elements essential in human society that have scarce/uncertain future supply
+	- elements where demand outweigh supply
 
 - Calculating relative isotopic mass
 	- it is the average atomic mass of all isotopes

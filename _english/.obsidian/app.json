@@ -1,0 +1,10 @@
+{
+  "strictLineBreaks": true,
+  "autoConvertHtml": false,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "assets",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "source"
+}
