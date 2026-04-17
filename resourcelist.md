@@ -6,7 +6,8 @@ note I do not own any of the below.
 
 ## atar related sites
 [2025 scaling report](https://vtac.edu.au/files/pdf/reports/scaling-report-25.pdf)
-[more in depth scaling report (tsfx)](https://www.tsfx.edu.au/vce/edge-online/study-score-predictor/?srsltid=AfmBOooYGYbxWD3gz6zb0leRegYTDXU_pLj01But_6NiKJnkvGNo-PHF)
+[vcedata (Brandon)](https://vce.atardata.com/)
+[tsfx scaling charts](https://www.tsfx.edu.au/vce/edge-online/study-score-predictor/?srsltid=AfmBOooYGYbxWD3gz6zb0leRegYTDXU_pLj01But_6NiKJnkvGNo-PHF)
 
 ## Resource sites
 🐐[study designs](https://www.vcaa.vic.edu.au/curriculum/vce-curriculum/vce-study-designs/vce-study-designs)
@@ -24,6 +25,8 @@ note I do not own any of the below.
 [resources- reddit post](https://www.reddit.com/r/vce/comments/1ii6tzs/vce_resources)
 [VCE circus](https://vce-circus.logicfronttoback.nz/index.htm)
 [VCEdata](https://vcedata.com/) (shut down)
+[coursehero](https://www.coursehero.com/)
+[Humanities tutor](https://humanitiestutor.com.au/?blog=y)
 [ms G's vce site](https://sites.google.com/view/msgsvce/load-specialist-files)
 [HZ tutoring](https://freeforvce.com/vce-subjects/)
 [vcexpert](https://vcexpert.com.au/resources/online-subject-notes-for-vce-students/)

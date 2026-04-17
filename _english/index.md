@@ -4,6 +4,7 @@ title: English
 ---
 Hi this is english notes.
 
+quality not guaranteed. (in fact it's quite the opposite)
 
 English
 In HY

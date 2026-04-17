@@ -5,8 +5,10 @@ charges are reversed in electrolytic cels
 
 what things do I write in a green chemistry principle question
 
+the overall equation has ions if they didn't specify the solution (that the ion will stick to) and it's a galvanic cell
 
-
+explain why the following reaction between chlorine gas and bromide ions is not predicted to occur to any significant extent under standard conditions.
+Cl2(g) will react with Br-(aq) but Br2(l) and Cl-(aq) will be produced, noe HOBr(aq) and CL-(aq). THis is b ecause the Br-(aq) at E^o +1.09V is a stronger reducing agent, therefore will preferentially oxidise to form Br2(l)
 
 fuel cells
 - all convert electrical -> chemical

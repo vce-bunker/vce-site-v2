@@ -3,7 +3,7 @@
 title: vce notes
 description: >-
   Here at vce bunker, protection of your atars is our top priority.
-url: "" # https://vce-bunker...
+url: "" # https://vce-bunker.foo.ng
 github_username:  vce-bunker
 
 collections:
@@ -19,6 +19,8 @@ collections:
     <<: *all_collections
   english:
     <<: *all_collections  
+  methods:
+    <<: *all_collections  
 
 defaults: 
 - scope: 
@@ -32,7 +34,6 @@ commonmark:
     - autolink
     - strikethrough
     - table
-    - tagfilter
     - tasklist
   options:
     - FOOTNOTES
