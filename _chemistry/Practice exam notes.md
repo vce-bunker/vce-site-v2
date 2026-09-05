@@ -1,6 +1,6 @@
 ---
 ---
-## Specifics (Notes while doing practice exams)
+## Specifics (Notes while doing practice exams) (unit 1 2)
 - critical elements- elements essential in human society that have scarce/uncertain future supply
 	- elements where demand outweigh supply
 

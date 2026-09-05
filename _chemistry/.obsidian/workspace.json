@@ -8,16 +8,161 @@
         "type": "tabs",
         "children": [
           {
-            "id": "759a2765f9e09092",
+            "id": "af395c8ecb64a644",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/5. Organic, Polymers, Chromatography/3. Definitions.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3. Definitions"
+            }
+          },
+          {
+            "id": "ac6e7aaf0d4cc09d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unit-3-4/3. U4 Aos1 Organic/1. Formulas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Formulas"
+            }
+          },
+          {
+            "id": "f5de50050a37915c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unit-3-4/3. U4 Aos1 Organic/Atom economy + % yield.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Atom economy + % yield"
+            }
+          },
+          {
+            "id": "dbb1bdf1e1359a7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unit-3-4/3. U4 Aos1 Organic/1. Formulas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Formulas"
+            }
+          },
+          {
+            "id": "df75a5cb207c018f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unit-3-4/2. Aos2- Optimising reactions/4. Producing green hydrogen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Producing green hydrogen"
+            }
+          },
+          {
+            "id": "e3a753a40a6331a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Command term Glossary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Command term Glossary"
+            }
+          },
+          {
+            "id": "09cea4d5317078ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/5. Organic, Polymers, Chromatography/5. Homologous series.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Homologous series"
+            }
+          },
+          {
+            "id": "be26e64e24b5c43d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "semester-1/5. Organic, Polymers, Chromatography/5. Homologous series.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Homologous series"
+            }
+          },
+          {
+            "id": "a0a8dffe7559de69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unit-3-4/3. U4 Aos1 Organic/2. pathways.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. pathways"
+            }
+          },
+          {
+            "id": "96b1710addece526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unit-3-4/3. U4 Aos1 Organic/2. pathways.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. pathways"
+            }
+          },
+          {
+            "id": "9f06517a1c9dbbb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unit-3-4/3. U4 Aos1 Organic/1. Formulas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Formulas"
             }
           }
-        ]
+        ],
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -37,7 +182,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -156,64 +303,65 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "graph:Open graph view": false,
+      "switcher:Open quick switcher": true,
+      "canvas:Create new canvas": true,
+      "graph:Open graph view": true,
       "daily-notes:Open today's daily note": true,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": true
+      "templates:Insert template": true,
+      "bases:Create new base": true,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "47984637dcfc0fb6",
+  "active": "9f06517a1c9dbbb4",
   "lastOpenFiles": [
-    "assets/pfsd blocks.png",
-    "assets/Pasted image 20250924232104.png",
-    "assets/isotope-abundance.png",
-    "assets/graphite.png",
-    "assets/e040bd16fd4f1b0606cd54c673b3d7a4b7e5b804a2e4bc94b6227e581a9736e3f32968782d58986f755580ea688946982879a38a62df213634816642ec9e54b3.png",
-    "assets/diamond.png",
-    "assets/Daniel cell.png",
-    "assets/Bohr-model-nitrogen-atom.webp",
-    "assets/b6edbb3cb299eef015be73787ec63f3da3d9ff3948684271d175542ffe99d40305ff4040bcdf14b2403b2218f00444781ea062be4c4f5d48f96fd44b4d786a93.png",
-    "assets/a8b09c5c53672eaea108e6d4bb6fd517e209ce199983b7fef39b776e8e5c54d19434cd7bc1201c6481729f2e64f92d8743fd690a2ec324756a03aa0a25479b7b.png",
-    "assets/1774223791164752a91575c6f3b07135d4bbab1b9289fc85d09a0bd82896dd84df117b5bb250f42685d8f2df7d6287e8e26633acf1ca02377aa269ad951fc469.png",
-    "unit-3-4/2. Aos2- Optimising reactions/2. Yield - topic 8.md",
-    "unit-3-4/2. Aos2- Optimising reactions/1. Rate - topic 7.md",
-    "unit-3-4/2. Aos2- Optimising reactions/3. Electrolysis - topic 9.md",
-    "unit-3-4/2. Aos2- Optimising reactions/Equilibrium.md",
-    "unit-3-4/index.md",
-    "unit-3-4/2. Aos2- Optimising reactions/Sac 2 canvas.canvas",
-    "index.md",
-    "unit-3-4/2. Aos2- Optimising reactions/3. Electroplating.md",
-    "Command term Glossary.md",
-    "Practice exam notes.md",
-    "quick notes.md",
-    "unit-3-4/1. Aos1- Energy/1. Faraday's laws.md",
-    "unit-3-4/2. Aos2- Optimising reactions",
-    "Chem working scaffold.md",
-    "unit-3-4/1. Aos1- Energy/Sac 1 canvas.canvas",
-    "semester-2/5. Gas laws/2. The gas formula.md",
-    "unit-3-4/1. Aos1- Energy/9. Unit 3 AOS 1 50 Answers.md",
-    "unit-3-4/1. Aos1- Energy/Not categorised yet.md",
-    "unit-3-4/1. Aos1- Energy/SAC 1 Key Knowledge Checklist.pdf",
-    "semester-2/5. Gas laws/1. Gas laws.md",
-    "semester-1/5. Organic, Polymers, Chromatography/4. Homologous series.md",
-    "semester-1/5. Organic, Polymers, Chromatography/3. Definitions.md",
     "semester-1/5. Organic, Polymers, Chromatography/2. Models for molecule structure.md",
-    "semester-1/5. Organic, Polymers, Chromatography/1. Organic Chemistry, Polymers and Chromatography.md",
-    "unit-3-4/1. Aos1- Energy/3. Fuels.md",
-    "unit-3-4/1. Aos1- Energy/2. 5 Commercial cells.md",
-    "unit-3-4/1. Aos1- Energy/5. Green Chemistry.md",
-    "unit-3-4/1. Aos1- Energy/4. Fossil fuels.md",
-    "semester-1/1. Elements + Periodic table/5. Ionic + Metallic Bonding.md",
+    "unit-3-4/3. U4 Aos1 Organic/1. Formulas.md",
+    "unit-3-4/4. U4 Aos2 Medicinal chem/isomers (move to fit somewhere).md",
+    "Practice exam notes.md",
+    "unit-3-4/3. U4 Aos1 Organic/6. Extra notes.md",
+    "unit-3-4/4. U4 Aos2 Medicinal chem/4. Nuclear magnetic resonance spectroscopy.md",
+    "unit-3-4/4. U4 Aos2 Medicinal chem/3. Infrared Spectroscopy.md",
+    "unit-3-4/3. U4 Aos1 Organic/5. Green chemistry.md",
+    "unit-3-4/3. U4 Aos1 Organic/4. Biomolecules + Biodiesel distillation.md",
+    "unit-3-4/3. U4 Aos1 Organic/3. Atom economy + % yield.md",
+    "unit-3-4/3. U4 Aos1 Organic/2. pathways.md",
+    "assets/c54e293810687798482ce61e41d63ada65d111901f246533ddf2ea96f6afb343bf8915f2a64641250854be6440e688b458d7a5b6cf980869a4a7a36f84bc6537.png",
+    "assets/6a5e15594e69d55d63b6bfc963215a0dec8078e38affd54e0ce4510e80d539910b101d6d6ebab14981b260cb70c13ac6bccd32fda490bd7682fc942b6decede2.png",
+    "semester-1/5. Organic, Polymers, Chromatography/6. Properties.md",
+    "unit-3-4/3. U4 Aos1 Organic/7. Sac 3 canvas.canvas",
+    "assets/f1a4df9244c09fb399cbad23d72167b169c60909d1c8e1938d8a427adc1048b9d83af482776f525fe0981a537272378c6979b9dce5237d80a6da0298c66cafef.png",
+    "assets/fee1db1524f5ef512959e484041cc090794947c2c783246e0d41e4ddaf89bacf0972c7fc9533221ec58ce52d19f3b184fd97ef85fbe9ddbadc675f5f7d60361f.png",
+    "assets/1109a923b7b75251623ea6ccf5392220973c92df6ccca653a71b3cb5d4423eb0b692c9633386727a020e6a055b258cc81396a097927db4cbcba49174c2c7f27b.png",
+    "assets/72b8b03f08e09c2079b2d87adb812e0ce5e70678f16139ef20727d6fad87a7918e3f0894b212012fa376aa60921d7e5f8ac180201a1d9b4ea2aeddd6468af7f2.png",
+    "semester-1/5. Organic, Polymers, Chromatography/5. Homologous series.md",
+    "semester-1/index.md",
+    "assets/4fd017cea469f1f055813594044ef06acae7c307312cfdcc18f3a3325f063482c625c9bf80c071905b653803966b03cc61f3f94a4b896c5e3a36355d15b8e974.png",
+    "assets/0b04457dcf17e431be1c1838b5a2c25386b59cbe8e69ce7e6a95fc9d8e90fd17e7b98124d11cef0969d3bd464487dc333cb51e1137d8d13bdee066f1a764f751.png",
+    "assets/520770bb6790958b46c0bab75afb1931cd62cd07146eb9aecc9b7ab2de8633396464ad681beb78ef650332bc92030c606af7e3b68783ea1fd068a5b029466601.png",
+    "assets/0887142d85638528d657616b983d9fd2f503a13906eeda1ee9401a73047191a7d85bc22d7d914f49c9c5a5c318e36b0c52788b924c8f2953e8db163d083dc448.png",
+    "semester-1/5. Organic, Polymers, Chromatography/7. Reactions.md",
+    "semester-1/5. Organic, Polymers, Chromatography/3. Definitions.md",
+    "semester-1/5. Organic, Polymers, Chromatography/4. Naming.md",
+    "Scientific method.md",
+    "Command term Glossary.md",
+    "unit-3-4/2. Aos2- Optimising reactions/5. things to keep in mind.md",
+    "unit-3-4/2. Aos2- Optimising reactions/3. Electrolysis - topic 9.md",
+    "unit-3-4/2. Aos2- Optimising reactions/2. Yield - topic 8.md",
+    "unit-3-4/2. Aos2- Optimising reactions/4. Producing green hydrogen.md",
+    "unit-3-4/2. Aos2- Optimising reactions/Equilibrium.md",
+    "unit-3-4/2. Aos2- Optimising reactions/1. Rate - topic 7.md",
+    "unit-3-4/1. Aos1- Energy/8. Calorimetry.md",
+    "unit-3-4/4. U4 Aos2 Medicinal chem",
+    "unit-3-4/2. Aos2- Optimising reactions/Sac 2 canvas.canvas",
+    "unit-3-4/1. Aos1- Energy/Sac 1 canvas.canvas",
+    "unit-3-4/3. U4 Aos1 Organic/desktop.ini",
+    "unit-3-4/3. U4 Aos1 Organic",
+    "unit-3-4/1. Aos1- Energy/SAC 1 Key Knowledge Checklist.pdf",
+    "unit-3-4/2. Aos2- Optimising reactions",
     "unit-3-4/1. Aos1- Energy",
     "unit-3-4",
     "semester-1/3. Mole",
     "semester-1/5. Organic, Polymers, Chromatography",
-    "semester-1/4. Water + Covalent substances",
-    "semester-1/1. Elements + Periodic table",
-    "semester-1",
-    "semester-2/4. Redox"
+    "semester-1/4. Water + Covalent substances"
   ]
 }

@@ -36,3 +36,6 @@ Alkane - questions will be asked
 2. write the molecular formula
 3. Draw the structural formula
 4. semi structural formula
+
+
+minimum noting. Focus on listening, then understand what is the minimum you need to note down.

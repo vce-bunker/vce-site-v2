@@ -17,9 +17,10 @@ note I do not own any of the below.
 ☆[vceweb](https://vceweb.com/collections/frontpage)
 ☆[atarnotes](https://atarnotes.com/search?full%5BsortBy%5D=full)
 ☆[dynamicscience](https://www.dynamicscience.com.au/tester/)
-☆[anki flashcards](https://www.reddit.com/r/vce/comments/1husqo0/free_game_changing_flashcards_from_a_9885_and/?rdt=40720)
 ☆[chloe is cool](https://drive.google.com/drive/folders/1oemiA-UnVHpV66OKt0Gw7LdBD3n5U-6r)
-☆[freevcenotes](https://freevcenotes.com/)
+☆[monash assumed knowledge](https://www.monash.edu/student-academic-success/learnhq#assumed_knowledge_label_3848367)
+[anki flashcards](https://www.reddit.com/r/vce/comments/1husqo0/free_game_changing_flashcards_from_a_9885_and/?rdt=40720)
+[freevcenotes](https://freevcenotes.com/)
 [qvce](https://qvce.notion.site/VCE-6be978d17921473aa17d69dba7d20dcb)
 [EquEd](https://equ-ed.com/)
 [resources- reddit post](https://www.reddit.com/r/vce/comments/1ii6tzs/vce_resources)
@@ -36,7 +37,7 @@ note I do not own any of the below.
 ### Flashcards
 🐐[anki](https://apps.ankiweb.net/)
 🐐[quizlet.com](https://quizlet.com/)
-☆[PDF2Anki](https://www.memo.cards/)
+[PDF2Anki](https://www.memo.cards/)
 [recall.cards](https://recall.cards/)
 [doyounotes](https://doyounotes.com) (site down)
 [mochi.cards](https://mochi.cards/)
@@ -48,6 +49,7 @@ note I do not own any of the below.
 [memorizer.me](https://memorizer.me/)
 
 ### Miscellaneous
+[TI connect](https://nspireconnect.ti.com/)
 [free cas file transfer](https://lights0123.com/n-link/)
 [notebookLLM](https://notebooklm.google/)
 [mybib](https://www.mybib.com/)
@@ -72,7 +74,6 @@ Bio
 🐐[Bioninja](https://vce.bioninja.com.au/)
 🐐[Andrew Douch podcast](https://open.spotify.com/show/3B3qUJ0AS8FEIkFPnZMXEw)
 🐐[edrolo glossary quizlet](https://quizlet.com/au/814805665/vce-biology-units-34-2025-flash-cards/)
-☆[monash uni](https://www.monash.edu/student-academic-success/learnhq/biology)
 ☆[Andrew Douch youtube](https://www.youtube.com/@andrewdouch/videos)
 
 Accounting
@@ -83,6 +84,7 @@ Methods/general
 🐐[qncubed3 exam database](https://qncubed3.notion.site/86f50c9e7c3f4150a6eb07aa92c9cd16?v=ac39a8d952f942adb6c0a0e4919b8362)
 🐐[scriptedmath](http://scriptedmath.com/)
 🐐[LMKmaths](https://www.youtube.com/user/LMKMaths)
+🐐[MathsMethods.com](https://mathsmethods.com.au/)
 ☆[itute](https://www.itute.com/)
 ☆[10minutequiz past paper stats](https://10minutequiz.com/)
 [MaffsGuru](https://www.maffsguru.com/)
@@ -92,6 +94,7 @@ english
 ☆[litcharts](https://www.litcharts.com/)
 ☆[Lisa's study guides youtube](https://www.youtube.com/@vcestudyguidesonline/videos)
 [english resources](https://drive.google.com/drive/folders/1IDjatXray_HikT_1Iv9oG9sJT7IEK7Z6)
+[learning hive academy](https://thelearninghive.academy/blogs)
 [enhanceacademic](https://www.enhanceacademic.com.au/resources/)
 [eduforge](https://eduforge.work/)
 [gradesaver](https://www.gradesaver.com/)
@@ -99,6 +102,7 @@ english
 
 Chem
 ☆[osheachem](https://osheachem.weebly.com/)
+[rsc](https://edu.rsc.org/searchresults)
 
 Other
 [Algorithmics 25](https://melatonin.is-a.dev/algo25/)

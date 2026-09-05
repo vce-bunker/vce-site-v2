@@ -1,5 +1,6 @@
 ---
 ---
+
 | Term        | Explanation                                                                                                                                                                                                                                                                                    |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Analyse     | Identify components/ elements and the significance of the relationship between them; draw out and relate implications; determine logic and reasonableness of information.                                                                                                                      |

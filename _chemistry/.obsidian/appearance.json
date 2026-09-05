@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Red Graphite"
+  "cssTheme": "Red Graphite",
+  "showRibbon": true,
+  "theme": "moonstone"
 }
